@@ -1,2 +1,2 @@
 # camera-calibration
-camera calibration for monocular camera 
+calibration for monocular camera 
